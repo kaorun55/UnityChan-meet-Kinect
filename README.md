@@ -3,6 +3,8 @@
 
 ユニティちゃんをKinectで動かします。Kinect for Windows v1で動きます。
 
+[![ScreenShot](https://raw.githubusercontent.com/kaorun55/UnityChan-meet-Kinect/master/Screenshot.png)](http://youtu.be/7CrhJpf-Jec)
+
  * unitychan\Assets\unitychan.unity を起動してください
 
 ## 環境
