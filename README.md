@@ -1,4 +1,4 @@
-ユニティちゃんKinect for Windows v1でを動かす
+ユニティちゃんをKinect for Windows v1で動かす
 ============
 
 ユニティちゃんをKinectで動かします。Kinect for Windows v1で動きます。
