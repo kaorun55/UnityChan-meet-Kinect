@@ -3,7 +3,7 @@
 
 ユニティちゃんをKinectで動かします。Kinect for Windows v1で動きます。
 
- * unitychan\Assets\unitychan.unity
+ * unitychan\Assets\unitychan.unity を起動してください
 
 ## 環境
 
